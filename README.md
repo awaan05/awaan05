@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Awaan Nisar
-- I’m interested in Flutter development for application and UI-UX design.
+- I’m interested in U, I-UX design, Flutter development for Mobile Application and a DevOps enthusiast. 
 - I’m currently learning DSA with Java and Dart for Flutter.
 
 <!---
