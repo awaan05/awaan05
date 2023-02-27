@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Awaan Nisar
-- 👀 I’m interested in App Development, IOS development and UI-UX design.
-- 🌱 I’m currently learning DSA and Android development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I’m interested in Flutter development for application and UI-UX design.
+- I’m currently learning DSA with Java and Dart for Flutter.
 
 <!---
 awaan05/awaan05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
