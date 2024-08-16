@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Awaan Nisar
-- I’m interested in UI-UX design, Flutter development for Mobile Application and a DevOps enthusiast. 
-- I’m currently learning DSA with Java and Dart for Flutter.
+- I like Apple a lot! Currently learning iOS Development.
+- I want to create apps for different Apple platforms which meets the Apple's user interface guidelines.
+- I'm also intrested in problem solving and learning DSA using Swift.
 
 <!---
 awaan05/awaan05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
