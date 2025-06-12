@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Awaan Nisar
-- I like Apple a lot! Currently learning iOS Development.
+- Currently learning iOS Development.
 - I want to create apps for different Apple platforms which meets the Apple's user interface guidelines.
 - I'm also intrested in problem solving and learning DSA using Swift.
 
